@@ -540,11 +540,11 @@ FUNCTION NRFTAB =  0.0,0.70,     100., 0.70,       ...
 END
 
 * Fertilizer application as a function of TIME (g N m-2).
-FUNCTION FERTAB =       0.0, 0.0, 99., 0.0,  100.,2.0, 101., 0.0,              ...
-                        124.0, 0.0, 125.,0.0,  126.,0.0,  200.,0.0
-      PARAM IRRIGF= 0.0
-
-END
+* FUNCTION FERTAB =       0.0, 0.0, 99., 0.0,  100.,2.0, 101., 0.0,              ...
+*                        124.0, 0.0, 125.,0.0,  126.,0.0,  200.,0.0
+*      PARAM IRRIGF= 0.0
+*
+* END
 STOP
 
 *************************Subroutines************************************
