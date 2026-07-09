@@ -135,7 +135,7 @@ WA, WAI, TIRRIG, TRAIN, TEXPLO, TRUNOF, TDRAIN
 *----------------------------------------------------------------------*
 
 DYNAMIC
-WEATHER WTRDIR=' '; CNTR='NL';ISTN=1; IYEAR=1987
+WEATHER WTRDIR=' '; CNTR='NLD';ISTN=1; IYEAR=1987
 
 *----------Emergence,Temperature sum and Developmental stages----------*
 
