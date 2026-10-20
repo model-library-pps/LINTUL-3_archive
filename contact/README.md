@@ -1,8 +1,7 @@
-**Author(s)**\
+**Original author**\
 Peter Leffelaar
 
-**Address**\
-WUR, Plant Production Systems, P.O. Box 430, 6700 AK Wageningen, The Netherlands
+This FST implementation of LINTUL-1 is an archive model that is not actively maintained. However, we do maintain one single LINTUL version that is implemented in Python ([link](https://github.com/model-library-pps/LINTUL)). This version is capable of simulating potential, water-limited, and water-and-nitrogen limited growth. 
 
 **Email**\
-peter.leffelaar@wur.nl , joost.wolf@wur.nl
+herman.berghuijs@wur.nl
